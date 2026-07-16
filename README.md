@@ -147,13 +147,3 @@ No directory hierarchy
 No multi-user support
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-🔮 Future Enhancements :
-
-💾 Disk-based persistence
-📂 Directory structure support
-👥 Multi-user environment
-🔐 File security & authentication
-🧵 Multi-threading support
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
